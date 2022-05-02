@@ -1,3 +1,3 @@
 # maven-project
 
-Simple Maven Project learn and test and deploy
+Simple Maven to Project learn and test
